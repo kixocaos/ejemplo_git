@@ -1,5 +1,5 @@
 #Este es un ejemplo de python para git
 
-class Ejemplo:
+class Cuadrado:
     def __init__(self):
         pass
