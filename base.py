@@ -8,6 +8,8 @@ class Cuadrado:
     def area(self):
         return self.lado_a * self.lado_b
 
-    def perimetro(self):
+    def perimetro_2(self):
         return self.lado_a+self.lado_a+self.lado_a+self.lado_a
 
+    def conflic(self):
+        pass
