@@ -9,5 +9,5 @@ class Cuadrado:
         return self.lado_a * self.lado_b
 
     def perimetro(self):
-        return self.lado_a*4
+        return self.lado_a+self.lado_a+self.lado_a+self.lado_a
 
