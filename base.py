@@ -11,5 +11,3 @@ class Cuadrado:
     def perimetro_2(self):
         return self.lado_a+self.lado_a+self.lado_a+self.lado_a
 
-    def conflic(self):
-        pass
